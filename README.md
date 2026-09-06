@@ -1,6 +1,6 @@
 # Projets d’économétrie appliquée
 
-Ce dépôt contient trois projets d’économétrie appliquée réalisés dans le cadre de mon parcours à la Toulouse School of Economics :  
+Ce dépôt contient trois projets annuels d’économétrie appliquée réalisés dans le cadre de mon parcours à la Toulouse School of Economics :  
 
 - **Analyse des déterminants du salaire net médian mensuel à la sortie d’un master universitaire en france en 2017**  
   Projet annuel d’économétrie appliquée mené en anglais (Licence 3)
